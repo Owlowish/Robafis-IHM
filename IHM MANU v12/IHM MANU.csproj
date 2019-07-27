@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A5BC5C05-5DAE-4F22-A024-0D6CBB4AEA6E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PipesClientTest</RootNamespace>
+    <AssemblyName>ROBAFIS IHM MANU</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetPlatformVersion>10.0</TargetPlatformVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ime.WindowsRuntime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETCore\v4.5\System.Runtime.WindowsRuntime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.WindowsRuntime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETCore\v4.5\System.Runtime.WindowsRuntime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Windows.Gaming" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AIDE_MANETTE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AIDE_MANETTE.Designer.cs">
+      <DependentUpon>AIDE_MANETTE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientConnection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ClientConnection.Designer.cs">
+      <DependentUpon>ClientConnection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEBUG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEBUG.Designer.cs">
+      <DependentUpon>DEBUG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IHM_connecter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IHM_connecter.Designer.cs">
+      <DependentUpon>IHM_connecter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IHM_CONTROLE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IHM_CONTROLE.Designer.cs">
+      <DependentUpon>IHM_CONTROLE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IHM_MANETTE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IHM_MANETTE.Designer.cs">
+      <DependentUpon>IHM_MANETTE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IHM_MANU_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IHM_MANU_1.Designer.cs">
+      <DependentUpon>IHM_MANU_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IHM_MANU_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IHM_MANU_2.Designer.cs">
+      <DependentUpon>IHM_MANU_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServerConnection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ServerConnection.Designer.cs">
+      <DependentUpon>ServerConnection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VARIABLES.cs" />
+    <EmbeddedResource Include="AIDE_MANETTE.resx">
+      <DependentUpon>AIDE_MANETTE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientConnection.resx">
+      <DependentUpon>ClientConnection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEBUG.resx">
+      <DependentUpon>DEBUG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IHM_connecter.resx">
+      <DependentUpon>IHM_connecter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IHM_CONTROLE.resx">
+      <DependentUpon>IHM_CONTROLE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IHM_MANETTE.resx">
+      <DependentUpon>IHM_MANETTE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IHM_MANU_1.resx">
+      <DependentUpon>IHM_MANU_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IHM_MANU_2.resx">
+      <DependentUpon>IHM_MANU_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ServerConnection.resx">
+      <DependentUpon>ServerConnection.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Clifton.Core.ExtensionMethods\Clifton.Core.ExtensionMethods.csproj">
+      <Project>{41d1de10-1a65-495f-83ae-4b914f8e33f6}</Project>
+      <Name>Clifton.Core.ExtensionMethods</Name>
+    </ProjectReference>
+    <ProjectReference Include="Clifton.Core.Pipes\Clifton.Core.Pipes.csproj">
+      <Project>{b826097c-cc24-4cac-8d31-8a65c4b76be9}</Project>
+      <Name>Clifton.Core.Pipes</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game-controller_N.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game-controller_A.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game-controller_AG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game-controller_D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game-controller_r.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game-controller_RG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game-controller_RD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game-controller_G.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game-controller_D1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

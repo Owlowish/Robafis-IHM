@@ -1,0 +1,150 @@
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\bin\Debug\ROBAFIS IHM MANU.exe.config
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\bin\Debug\ROBAFIS IHM MANU.exe
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\bin\Debug\ROBAFIS IHM MANU.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\bin\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\bin\Debug\Clifton.Core.Pipes.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\bin\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\bin\Debug\Clifton.Core.Pipes.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\obj\Debug\IHM MANU.csprojAssemblyReference.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\obj\Debug\PipesClientTest.AIDE_MANETTE.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\obj\Debug\PipesClientTest.ClientConnection.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\obj\Debug\PipesClientTest.DEBUG.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\obj\Debug\PipesClientTest.IHM_connecter.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\obj\Debug\PipesClientTest.IHM_CONTROLE.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\obj\Debug\PipesClientTest.IHM_MANETTE.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\obj\Debug\PipesClientTest.IHM_MANU_1.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\obj\Debug\PipesClientTest.IHM_MANU_2.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\obj\Debug\PipesClientTest.Properties.Resources.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\obj\Debug\PipesClientTest.ServerConnection.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\obj\Debug\IHM MANU.csproj.GenerateResource.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\obj\Debug\IHM MANU.csproj.CoreCompileInputs.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\obj\Debug\IHM MANU.csproj.CopyComplete
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\obj\Debug\ROBAFIS IHM MANU.exe
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\obj\Debug\ROBAFIS IHM MANU.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\bin\Debug\ROBAFIS IHM MANU.exe.config
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\bin\Debug\ROBAFIS IHM MANU.exe
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\bin\Debug\ROBAFIS IHM MANU.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\bin\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\bin\Debug\Clifton.Core.Pipes.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\bin\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\bin\Debug\Clifton.Core.Pipes.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\obj\Debug\IHM MANU.csprojAssemblyReference.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\obj\Debug\PipesClientTest.AIDE_MANETTE.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\obj\Debug\PipesClientTest.ClientConnection.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\obj\Debug\PipesClientTest.DEBUG.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\obj\Debug\PipesClientTest.IHM_connecter.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\obj\Debug\PipesClientTest.IHM_CONTROLE.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\obj\Debug\PipesClientTest.IHM_MANETTE.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\obj\Debug\PipesClientTest.IHM_MANU_1.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\obj\Debug\PipesClientTest.IHM_MANU_2.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\obj\Debug\PipesClientTest.Properties.Resources.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\obj\Debug\PipesClientTest.ServerConnection.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\obj\Debug\IHM MANU.csproj.GenerateResource.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\obj\Debug\IHM MANU.csproj.CoreCompileInputs.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\obj\Debug\IHM MANU.csproj.CopyComplete
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\obj\Debug\ROBAFIS IHM MANU.exe
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 9\IHM MANU v9\obj\Debug\ROBAFIS IHM MANU.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\bin\Debug\ROBAFIS IHM MANU.exe.config
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\bin\Debug\ROBAFIS IHM MANU.exe
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\bin\Debug\ROBAFIS IHM MANU.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\bin\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\bin\Debug\Clifton.Core.Pipes.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\bin\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\bin\Debug\Clifton.Core.Pipes.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\obj\Debug\IHM MANU.csprojAssemblyReference.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\obj\Debug\PipesClientTest.AIDE_MANETTE.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\obj\Debug\PipesClientTest.ClientConnection.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\obj\Debug\PipesClientTest.DEBUG.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\obj\Debug\PipesClientTest.IHM_connecter.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\obj\Debug\PipesClientTest.IHM_CONTROLE.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\obj\Debug\PipesClientTest.IHM_MANETTE.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\obj\Debug\PipesClientTest.IHM_MANU_1.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\obj\Debug\PipesClientTest.IHM_MANU_2.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\obj\Debug\PipesClientTest.Properties.Resources.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\obj\Debug\PipesClientTest.ServerConnection.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\obj\Debug\IHM MANU.csproj.GenerateResource.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\obj\Debug\IHM MANU.csproj.CoreCompileInputs.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\obj\Debug\IHM MANU.csproj.CopyComplete
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\obj\Debug\ROBAFIS IHM MANU.exe
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\obj\Debug\ROBAFIS IHM MANU.pdb
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\bin\Debug\ROBAFIS IHM MANU.exe.config
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\bin\Debug\ROBAFIS IHM MANU.exe
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\bin\Debug\ROBAFIS IHM MANU.pdb
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\bin\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\bin\Debug\Clifton.Core.Pipes.dll
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\bin\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\bin\Debug\Clifton.Core.Pipes.pdb
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\obj\Debug\IHM MANU.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\obj\Debug\PipesClientTest.AIDE_MANETTE.resources
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\obj\Debug\PipesClientTest.ClientConnection.resources
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\obj\Debug\PipesClientTest.DEBUG.resources
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\obj\Debug\PipesClientTest.IHM_connecter.resources
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\obj\Debug\PipesClientTest.IHM_CONTROLE.resources
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\obj\Debug\PipesClientTest.IHM_MANETTE.resources
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\obj\Debug\PipesClientTest.IHM_MANU_1.resources
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\obj\Debug\PipesClientTest.IHM_MANU_2.resources
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\obj\Debug\PipesClientTest.Properties.Resources.resources
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\obj\Debug\PipesClientTest.ServerConnection.resources
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\obj\Debug\IHM MANU.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\obj\Debug\IHM MANU.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\obj\Debug\IHM MANU.csproj.CopyComplete
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\obj\Debug\ROBAFIS IHM MANU.exe
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\obj\Debug\ROBAFIS IHM MANU.pdb
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\bin\Debug\ROBAFIS IHM MANU.exe.config
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\bin\Debug\ROBAFIS IHM MANU.exe
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\bin\Debug\ROBAFIS IHM MANU.pdb
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\bin\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\bin\Debug\Clifton.Core.Pipes.dll
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\bin\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\bin\Debug\Clifton.Core.Pipes.pdb
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\obj\Debug\IHM MANU.csprojAssemblyReference.cache
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\obj\Debug\PipesClientTest.AIDE_MANETTE.resources
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\obj\Debug\PipesClientTest.ClientConnection.resources
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\obj\Debug\PipesClientTest.DEBUG.resources
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\obj\Debug\PipesClientTest.IHM_connecter.resources
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\obj\Debug\PipesClientTest.IHM_CONTROLE.resources
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\obj\Debug\PipesClientTest.IHM_MANETTE.resources
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\obj\Debug\PipesClientTest.IHM_MANU_1.resources
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\obj\Debug\PipesClientTest.IHM_MANU_2.resources
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\obj\Debug\PipesClientTest.Properties.Resources.resources
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\obj\Debug\PipesClientTest.ServerConnection.resources
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\obj\Debug\IHM MANU.csproj.GenerateResource.cache
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\obj\Debug\IHM MANU.csproj.CoreCompileInputs.cache
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\obj\Debug\IHM MANU.csproj.CopyComplete
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\obj\Debug\ROBAFIS IHM MANU.exe
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\obj\Debug\ROBAFIS IHM MANU.pdb
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\bin\Debug\ROBAFIS IHM MANU.exe.config
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\bin\Debug\ROBAFIS IHM MANU.exe
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\bin\Debug\ROBAFIS IHM MANU.pdb
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\bin\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\bin\Debug\Clifton.Core.Pipes.dll
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\bin\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\bin\Debug\Clifton.Core.Pipes.pdb
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\obj\Debug\IHM MANU.csprojAssemblyReference.cache
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\obj\Debug\PipesClientTest.AIDE_MANETTE.resources
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\obj\Debug\PipesClientTest.ClientConnection.resources
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\obj\Debug\PipesClientTest.DEBUG.resources
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\obj\Debug\PipesClientTest.IHM_connecter.resources
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\obj\Debug\PipesClientTest.IHM_CONTROLE.resources
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\obj\Debug\PipesClientTest.IHM_MANETTE.resources
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\obj\Debug\PipesClientTest.IHM_MANU_1.resources
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\obj\Debug\PipesClientTest.IHM_MANU_2.resources
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\obj\Debug\PipesClientTest.Properties.Resources.resources
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\obj\Debug\PipesClientTest.ServerConnection.resources
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\obj\Debug\IHM MANU.csproj.GenerateResource.cache
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\obj\Debug\IHM MANU.csproj.CoreCompileInputs.cache
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\obj\Debug\IHM MANU.csproj.CopyComplete
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\obj\Debug\ROBAFIS IHM MANU.exe
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM v12\IHM MANU v12\obj\Debug\ROBAFIS IHM MANU.pdb

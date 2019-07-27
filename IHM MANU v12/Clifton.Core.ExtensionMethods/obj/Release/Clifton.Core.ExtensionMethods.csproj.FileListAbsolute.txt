@@ -1,0 +1,30 @@
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\Clifton.Core.ExtensionMethods\bin\Release\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\Clifton.Core.ExtensionMethods\bin\Release\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\Clifton.Core.ExtensionMethods\obj\Release\Clifton.Core.ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\Clifton.Core.ExtensionMethods\obj\Release\Clifton.Core.ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\Clifton.Core.ExtensionMethods\obj\Release\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\Clifton.Core.ExtensionMethods\obj\Release\Clifton.Core.ExtensionMethods.pdb
+C:\Users\alexa\Desktop\IHM version 0.1\IHM MANU\Clifton.Core.ExtensionMethods\bin\Release\Clifton.Core.ExtensionMethods.dll
+C:\Users\alexa\Desktop\IHM version 0.1\IHM MANU\Clifton.Core.ExtensionMethods\bin\Release\Clifton.Core.ExtensionMethods.pdb
+C:\Users\alexa\Desktop\IHM version 0.1\IHM MANU\Clifton.Core.ExtensionMethods\obj\Release\Clifton.Core.ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\IHM version 0.1\IHM MANU\Clifton.Core.ExtensionMethods\obj\Release\Clifton.Core.ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\IHM version 0.1\IHM MANU\Clifton.Core.ExtensionMethods\obj\Release\Clifton.Core.ExtensionMethods.dll
+C:\Users\alexa\Desktop\IHM version 0.1\IHM MANU\Clifton.Core.ExtensionMethods\obj\Release\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU1\Clifton.Core.ExtensionMethods\bin\Release\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU1\Clifton.Core.ExtensionMethods\bin\Release\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU1\Clifton.Core.ExtensionMethods\obj\Release\Clifton.Core.ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU1\Clifton.Core.ExtensionMethods\obj\Release\Clifton.Core.ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU1\Clifton.Core.ExtensionMethods\obj\Release\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU1\Clifton.Core.ExtensionMethods\obj\Release\Clifton.Core.ExtensionMethods.pdb
+C:\Users\daoud\Desktop\IHM MANU v4\Clifton.Core.ExtensionMethods\bin\Release\Clifton.Core.ExtensionMethods.dll
+C:\Users\daoud\Desktop\IHM MANU v4\Clifton.Core.ExtensionMethods\bin\Release\Clifton.Core.ExtensionMethods.pdb
+C:\Users\daoud\Desktop\IHM MANU v4\Clifton.Core.ExtensionMethods\obj\Release\Clifton.Core.ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\daoud\Desktop\IHM MANU v4\Clifton.Core.ExtensionMethods\obj\Release\Clifton.Core.ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\daoud\Desktop\IHM MANU v4\Clifton.Core.ExtensionMethods\obj\Release\Clifton.Core.ExtensionMethods.dll
+C:\Users\daoud\Desktop\IHM MANU v4\Clifton.Core.ExtensionMethods\obj\Release\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 6\IHM MANU v6 daoud\Clifton.Core.ExtensionMethods\bin\Release\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 6\IHM MANU v6 daoud\Clifton.Core.ExtensionMethods\bin\Release\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 6\IHM MANU v6 daoud\Clifton.Core.ExtensionMethods\obj\Release\Clifton.Core.ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 6\IHM MANU v6 daoud\Clifton.Core.ExtensionMethods\obj\Release\Clifton.Core.ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 6\IHM MANU v6 daoud\Clifton.Core.ExtensionMethods\obj\Release\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 6\IHM MANU v6 daoud\Clifton.Core.ExtensionMethods\obj\Release\Clifton.Core.ExtensionMethods.pdb

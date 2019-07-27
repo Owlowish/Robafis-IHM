@@ -1,0 +1,29 @@
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\Clifton.Core.Pipes\bin\Release\Clifton.Core.Pipes.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\Clifton.Core.Pipes\bin\Release\Clifton.Core.Pipes.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\Clifton.Core.Pipes\obj\Release\Clifton.Core.Pipes.csprojAssemblyReference.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\Clifton.Core.Pipes\obj\Release\Clifton.Core.Pipes.csproj.CoreCompileInputs.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\Clifton.Core.Pipes\obj\Release\Clifton.Core.Pipes.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\Clifton.Core.Pipes\obj\Release\Clifton.Core.Pipes.pdb
+C:\Users\alexa\Desktop\IHM version 0.1\IHM MANU\Clifton.Core.Pipes\bin\Release\Clifton.Core.Pipes.dll
+C:\Users\alexa\Desktop\IHM version 0.1\IHM MANU\Clifton.Core.Pipes\bin\Release\Clifton.Core.Pipes.pdb
+C:\Users\alexa\Desktop\IHM version 0.1\IHM MANU\Clifton.Core.Pipes\obj\Release\Clifton.Core.Pipes.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\IHM version 0.1\IHM MANU\Clifton.Core.Pipes\obj\Release\Clifton.Core.Pipes.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\IHM version 0.1\IHM MANU\Clifton.Core.Pipes\obj\Release\Clifton.Core.Pipes.dll
+C:\Users\alexa\Desktop\IHM version 0.1\IHM MANU\Clifton.Core.Pipes\obj\Release\Clifton.Core.Pipes.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU1\Clifton.Core.Pipes\bin\Release\Clifton.Core.Pipes.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU1\Clifton.Core.Pipes\bin\Release\Clifton.Core.Pipes.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU1\Clifton.Core.Pipes\obj\Release\Clifton.Core.Pipes.csproj.CoreCompileInputs.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU1\Clifton.Core.Pipes\obj\Release\Clifton.Core.Pipes.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU1\Clifton.Core.Pipes\obj\Release\Clifton.Core.Pipes.pdb
+C:\Users\daoud\Desktop\IHM MANU v4\Clifton.Core.Pipes\bin\Release\Clifton.Core.Pipes.dll
+C:\Users\daoud\Desktop\IHM MANU v4\Clifton.Core.Pipes\bin\Release\Clifton.Core.Pipes.pdb
+C:\Users\daoud\Desktop\IHM MANU v4\Clifton.Core.Pipes\obj\Release\Clifton.Core.Pipes.csprojAssemblyReference.cache
+C:\Users\daoud\Desktop\IHM MANU v4\Clifton.Core.Pipes\obj\Release\Clifton.Core.Pipes.csproj.CoreCompileInputs.cache
+C:\Users\daoud\Desktop\IHM MANU v4\Clifton.Core.Pipes\obj\Release\Clifton.Core.Pipes.dll
+C:\Users\daoud\Desktop\IHM MANU v4\Clifton.Core.Pipes\obj\Release\Clifton.Core.Pipes.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 6\IHM MANU v6 daoud\Clifton.Core.Pipes\bin\Release\Clifton.Core.Pipes.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 6\IHM MANU v6 daoud\Clifton.Core.Pipes\bin\Release\Clifton.Core.Pipes.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 6\IHM MANU v6 daoud\Clifton.Core.Pipes\obj\Release\Clifton.Core.Pipes.csprojAssemblyReference.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 6\IHM MANU v6 daoud\Clifton.Core.Pipes\obj\Release\Clifton.Core.Pipes.csproj.CoreCompileInputs.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 6\IHM MANU v6 daoud\Clifton.Core.Pipes\obj\Release\Clifton.Core.Pipes.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 6\IHM MANU v6 daoud\Clifton.Core.Pipes\obj\Release\Clifton.Core.Pipes.pdb

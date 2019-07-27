@@ -1,0 +1,49 @@
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\bin\Debug\PipesClientTest.exe.config
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\bin\Debug\PipesClientTest.exe
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\bin\Debug\PipesClientTest.pdb
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\bin\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\bin\Debug\Clifton.Core.Pipes.dll
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\bin\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\bin\Debug\Clifton.Core.Pipes.pdb
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\obj\Debug\PipesClientTest.csprojAssemblyReference.cache
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\obj\Debug\PipesClientTest.ClientConnection.resources
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\obj\Debug\PipesClientTest.Form1.resources
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\obj\Debug\PipesClientTest.Properties.Resources.resources
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\obj\Debug\PipesClientTest.ServerConnection.resources
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\obj\Debug\PipesClientTest.csproj.GenerateResource.cache
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\obj\Debug\PipesClientTest.csproj.CoreCompileInputs.cache
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\obj\Debug\PipesClientTest.csproj.CopyComplete
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\obj\Debug\PipesClientTest.exe
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\obj\Debug\PipesClientTest.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\bin\Debug\PipesClientTest.exe.config
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\bin\Debug\PipesClientTest.exe
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\bin\Debug\PipesClientTest.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\bin\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\bin\Debug\Clifton.Core.Pipes.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\bin\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\bin\Debug\Clifton.Core.Pipes.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\obj\Debug\PipesClientTest.csprojAssemblyReference.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\obj\Debug\PipesClientTest.ClientConnection.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\obj\Debug\PipesClientTest.Form1.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\obj\Debug\PipesClientTest.IHM_MANU_1.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\obj\Debug\PipesClientTest.Properties.Resources.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\obj\Debug\PipesClientTest.ServerConnection.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\obj\Debug\PipesClientTest.csproj.GenerateResource.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\obj\Debug\PipesClientTest.csproj.CoreCompileInputs.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\obj\Debug\PipesClientTest.csproj.CopyComplete
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\obj\Debug\PipesClientTest.exe
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\obj\Debug\PipesClientTest.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU\obj\Debug\PipesClientTest.csprojAssemblyReference.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU\obj\Debug\PipesClientTest.ClientConnection.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU\obj\Debug\PipesClientTest.DEBUG.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU\obj\Debug\PipesClientTest.Form1.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU\obj\Debug\PipesClientTest.IHM_CONTROLE.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU\obj\Debug\PipesClientTest.IHM_MANETTE.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU\obj\Debug\PipesClientTest.IHM_MANU_1.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU\obj\Debug\PipesClientTest.IHM_MANU_2.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU\obj\Debug\PipesClientTest.Properties.Resources.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU\obj\Debug\PipesClientTest.ServerConnection.resources
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU\obj\Debug\PipesClientTest.csproj.GenerateResource.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU\obj\Debug\PipesClientTest.csproj.CoreCompileInputs.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU\obj\Debug\PipesClientTest.exe
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU\obj\Debug\PipesClientTest.pdb

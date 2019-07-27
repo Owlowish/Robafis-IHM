@@ -1,0 +1,42 @@
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\Clifton.Core.ExtensionMethods\bin\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\Clifton.Core.ExtensionMethods\bin\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\URCA\robafis\programmation\PipesClientTest\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\Clifton.Core.ExtensionMethods\bin\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\Clifton.Core.ExtensionMethods\bin\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM MANU\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU\Clifton.Core.ExtensionMethods\bin\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU\Clifton.Core.ExtensionMethods\bin\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\VERSION ALEX\IHM MANU\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\Clifton.Core.ExtensionMethods\bin\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\Clifton.Core.ExtensionMethods\bin\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\IHM VERSION 8\IHM MANU v8\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\Clifton.Core.ExtensionMethods\bin\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\Clifton.Core.ExtensionMethods\bin\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\IHM\Concours\IHM VERSION 10\IHM MANU v10\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\Clifton.Core.ExtensionMethods\bin\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\Clifton.Core.ExtensionMethods\bin\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\alexa\Desktop\IHM VERSION 10\IHM MANU v10\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\Clifton.Core.ExtensionMethods\bin\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\Clifton.Core.ExtensionMethods\bin\Debug\Clifton.Core.ExtensionMethods.pdb
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.dll
+C:\Users\yuhan\OneDrive\Bureau\After Project\IHM MANU v10\Clifton.Core.ExtensionMethods\obj\Debug\Clifton.Core.ExtensionMethods.pdb
